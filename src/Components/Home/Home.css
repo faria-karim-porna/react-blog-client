@@ -1,0 +1,52 @@
+body{
+    overflow-x: hidden;
+}
+.webName{
+    color: red;
+}
+.homelink{
+    margin-left: 10%;
+    border: 2px solid rgb(3, 3, 53);
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    border-radius: 10px;
+    color:  rgb(3, 3, 53);
+    font-weight: 600;
+}
+.homelink:hover{
+    text-decoration: none;
+    color:  rgb(3, 3, 53);
+}
+.homeImage{
+    height: 100vh !important;
+}
+.home-text-section{
+    overflow: hidden;
+    background: linear-gradient(90deg, rgb(246, 246, 246) 0%, rgb(246, 246, 246) 43%, rgba(0,212,255,1) 100%) !important;
+    height: 100vh;
+    margin-left: 0 !important;
+}
+.home-text-section>p{
+    display: block !important;
+}
+.text{
+    margin-top: 25%;
+    padding-right: 10%;
+}
+.webname{
+    color: skyblue;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
+.webname-small{
+    color: rgb(3, 3, 53);
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.web-description{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}

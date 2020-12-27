@@ -1,0 +1,45 @@
+.detail-post{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    margin-top: 70px;
+}
+.detail-post-profile-pic{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+.seperator{
+    border-right: 1px solid #C9C9C9;
+    height: 100px;
+}
+.detail-post-info{
+    height: 100px;
+}
+.detail-post-line{
+    border: 2px dashed skyblue;
+    width: 75%;
+}
+.comment-textArea-add{
+    height: 30px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #C9C9C9;
+    resize: none;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
+.comment-profile-pic{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 5px solid skyblue;
+}
+.comment-section{
+    background-color: rgb(171, 224, 245);
+    border-radius: 10px;
+}
+.try{
+    border: 1px solid black;
+}

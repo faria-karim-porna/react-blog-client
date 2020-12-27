@@ -1,0 +1,53 @@
+.post-form{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.form-name{
+    font-size: 30px;
+    font-weight: 600;
+}
+.create-post-profile-pic{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+.seperator{
+    border-right: 1px solid #C9C9C9;
+    height: 150px;
+}
+.create-post-info{
+    height: 150px;
+}
+.input-add{
+    border: none;
+    border-bottom: 1px solid #C9C9C9;
+    width: 100%;
+  }
+  .textArea-add{
+    height: 100px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #C9C9C9;
+    resize: none;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    
+  }
+  .form-label
+  {
+      font-weight: 600;
+  }
+  .btn-custom{
+    border: 2px solid rgb(111, 190, 221);
+    border-radius: 10px;
+    color: rgb(111, 190, 221);
+    font-weight: 600;
+  }
+  .create-post-line{
+    border: 2px dashed skyblue;
+    width: 75%;
+}

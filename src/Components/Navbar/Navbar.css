@@ -1,0 +1,28 @@
+.navbar{
+    background-color:rgb(3, 3, 53);
+    height: 55px;
+}
+.logo{
+    color: skyblue;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
+.logo-small{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-link{
+    color: white !important;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.navlink{
+    color: white;
+    text-decoration: none;
+}
+.navlink:hover{
+    color: white;
+    text-decoration: none;
+}
