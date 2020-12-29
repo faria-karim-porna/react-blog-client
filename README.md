@@ -1,5 +1,9 @@
 # react-blog-client
 
+#### Server Github Link: https://github.com/faria-karim-porna/django-blog-server
+
+#### Heroku REST API: https://blog-api-faria.herokuapp.com/api
+
 ## Video Preview Of The Project
 
 ![](https://github.com/faria-karim-porna/react-blog-client/blob/main/video-preview.gif)
