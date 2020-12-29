@@ -1,7 +1,5 @@
 # react-blog-client
 
-# django-blog-server
-
 ## Video Preview Of The Project
 
 ![](https://github.com/faria-karim-porna/react-blog-client/blob/main/video-preview.gif)
